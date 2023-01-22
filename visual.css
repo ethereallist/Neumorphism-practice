@@ -101,6 +101,7 @@ button {
     margin-left: 50px;
     margin-top: 12px;
     transition: 0.9s;
+    letter-spacing: 0.5px;
 }
 
 button:hover {
